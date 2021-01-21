@@ -276,7 +276,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"..\/3space\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -289,7 +289,7 @@
         {
          "columns":64,
          "firstgid":1996,
-         "image":"..\/3space\/tileset1.png",
+         "image":"tileset1.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
