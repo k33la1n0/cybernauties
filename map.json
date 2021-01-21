@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":50,
@@ -159,6 +160,12 @@
          "id":16,
          "name":"collide_layer",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -803,6 +810,15 @@
                          "tileid":468
                         }],
                  "id":467
+                }, 
+                {
+                 "id":515,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
