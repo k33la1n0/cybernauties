@@ -1019,7 +1019,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ashasta"
+                         "value":"showcase1"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2288,7 +2288,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/asta-ash.eu\/umfrage"
+                         "value":"https:\/\/wiki.fitforgestaltwas.org\/books\/08122023-onlinefachtag-digitale-nachhaltigkeit-ressourcenschonende-projektarbeit-mit-technik\/page\/anmeldung-und-ablauf"
                         }]
                 }, 
                 {
@@ -2482,7 +2482,7 @@
                         {
                          "name":"openwebsite",
                          "type":"string",
-                         "value":"https:\/\/asta-ash.eu"
+                         "value":"https:\/\/wiki.fitforgestaltwas.org\/books\/08122023-onlinefachtag-digitale-nachhaltigkeit-ressourcenschonende-projektarbeit-mit-technik\/page\/anmeldung-und-ablauf"
                         }]
                 }, 
                 {
